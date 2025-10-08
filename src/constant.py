@@ -1,5 +1,5 @@
 # Base Direction
-base_dir = "D:/Project/"  # need to be changed
+base_dir = "D:/Project/TeslaCar_QA/"  # need to be changed
 
 # Data Path
 pdf_path = base_dir + "data/Tesla_Manual.pdf"
